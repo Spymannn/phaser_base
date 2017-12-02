@@ -19,7 +19,7 @@ git clone git@gitlab.com:Spymannn/phaser_base.git
 Enter to the directory 
 
 ```
-cd phaser-init
+cd phaser_base
 ```
 
 Install dependancies
