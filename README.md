@@ -41,6 +41,6 @@ npm start
 
 ## Authors
 
-* **Spyman** - [Spymannn](https://gitlab.com/Spymannn)
+* **Gitlab account** - [Spymannn](https://gitlab.com/Spymannn)
 * **Facebook** - [Spymannn](https://www.facebook.com/Spyman15/)
 
